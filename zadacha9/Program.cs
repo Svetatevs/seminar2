@@ -13,9 +13,9 @@ int lastNumber = randomNumber % 10;
 
 if(lastNumber > firstNumber)
 {
-    Console.WriteLine($"Максимальное число равно {lastNumber}");
+    Console.WriteLine($"Максимальное число {lastNumber}");
 }
 else
 {
- Console.WriteLine($"Максимальное число равно {firstNumber}");
+ Console.WriteLine($"Максимальное число {firstNumber}");
 }
