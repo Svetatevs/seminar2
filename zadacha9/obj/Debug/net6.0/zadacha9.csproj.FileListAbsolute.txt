@@ -1,0 +1,15 @@
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\bin\Debug\net6.0\zadacha9.exe
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\bin\Debug\net6.0\zadacha9.deps.json
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\bin\Debug\net6.0\zadacha9.runtimeconfig.json
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\bin\Debug\net6.0\zadacha9.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\bin\Debug\net6.0\zadacha9.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\zadacha9.csproj.AssemblyReference.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\zadacha9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\zadacha9.AssemblyInfoInputs.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\zadacha9.AssemblyInfo.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\zadacha9.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\zadacha9.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\refint\zadacha9.dll
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\zadacha9.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\zadacha9.genruntimeconfig.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\Seminar2508\zadacha9\obj\Debug\net6.0\ref\zadacha9.dll
